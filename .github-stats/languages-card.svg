@@ -1,0 +1,70 @@
+<svg width="300" height="285" viewBox="0 0 300 285" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #0366d6 }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #586069 }
+    .stagger { opacity: 0; animation: fadeInAnimation 0.3s ease-in-out forwards }
+    @keyframes fadeInAnimation {
+      from { opacity: 0 }
+      to { opacity: 1 }
+    }
+  </style>
+
+  <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e1e4e8" width="299" fill="#fffefe" stroke-opacity="1"/>
+
+  <g data-testid="card-title" transform="translate(25, 35)">
+    <text x="0" y="0" class="header">Most Used Languages</text>
+  </g>
+
+  <g data-testid="main-card-body" transform="translate(0, 55)">
+    <svg data-testid="lang-items" x="25">
+      <g transform="translate(0, 0)">
+        <g class="stagger" style="animation-delay: 450ms">
+          <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+          <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 42.8%</text>
+        </g>
+      </g>
+      <g transform="translate(0, 25)">
+        <g class="stagger" style="animation-delay: 600ms">
+          <circle cx="5" cy="6" r="5" fill="#b07219"/>
+          <text x="15" y="10" class="lang-name">Java 28.3%</text>
+        </g>
+      </g>
+      <g transform="translate(0, 50)">
+        <g class="stagger" style="animation-delay: 750ms">
+          <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+          <text x="15" y="10" class="lang-name">JavaScript 12.4%</text>
+        </g>
+      </g>
+      <g transform="translate(0, 75)">
+        <g class="stagger" style="animation-delay: 900ms">
+          <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+          <text x="15" y="10" class="lang-name">TypeScript 8.7%</text>
+        </g>
+      </g>
+      <g transform="translate(0, 100)">
+        <g class="stagger" style="animation-delay: 1050ms">
+          <circle cx="5" cy="6" r="5" fill="#89e051"/>
+          <text x="15" y="10" class="lang-name">Shell 3.2%</text>
+        </g>
+      </g>
+      <g transform="translate(0, 125)">
+        <g class="stagger" style="animation-delay: 1200ms">
+          <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+          <text x="15" y="10" class="lang-name">HTML 2.1%</text>
+        </g>
+      </g>
+      <g transform="translate(0, 150)">
+        <g class="stagger" style="animation-delay: 1350ms">
+          <circle cx="5" cy="6" r="5" fill="#563d7c"/>
+          <text x="15" y="10" class="lang-name">CSS 1.8%</text>
+        </g>
+      </g>
+      <g transform="translate(0, 175)">
+        <g class="stagger" style="animation-delay: 1500ms">
+          <circle cx="5" cy="6" r="5" fill="#00ADD8"/>
+          <text x="15" y="10" class="lang-name">Other 0.7%</text>
+        </g>
+      </g>
+    </svg>
+  </g>
+</svg>
