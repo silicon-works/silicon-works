@@ -14,7 +14,7 @@
   <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e1e4e8" width="494" fill="#fffefe" stroke-opacity="1"/>
 
   <g data-testid="card-title" transform="translate(25, 35)">
-    <text x="0" y="0" class="header">Paulius's GitHub Stats</text>
+    <text x="0" y="0" class="header">Paul's GitHub Stats</text>
   </g>
 
   <g data-testid="main-card-body" transform="translate(0, 55)">

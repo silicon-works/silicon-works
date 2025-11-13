@@ -9,9 +9,9 @@ I build production AI systems that think for themselves. Currently crafting auto
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="50%" valign="top" style="border: none;">
 
 ## 🚀 Recent Highlights
 
@@ -22,7 +22,7 @@ Built enterprise platform with 14+ autonomous agents using LangChain/LangGraph. 
 Co-founded property listing platform disrupting the Lithuanian market. Full-stack solution with automated listing management, search, and payment processing.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 ## 📊 GitHub Stats
 
