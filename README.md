@@ -2,8 +2,6 @@
 
 I build production AI systems that think for themselves. Currently crafting autonomous agents and multi-agent platforms that solve complex problems without human intervention.
 
----
-
 ## 👷 What I'm Working On
 
 <div align="left">
@@ -11,11 +9,9 @@ I build production AI systems that think for themselves. Currently crafting auto
 
 </div>
 
----
-
-<div style="display: flex; gap: 20px;">
-
-<div style="flex: 1;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🚀 Recent Highlights
 
@@ -25,19 +21,16 @@ Built enterprise platform with 14+ autonomous agents using LangChain/LangGraph. 
 **🏠 Sostines Turtas**
 Co-founded property listing platform disrupting the Lithuanian market. Full-stack solution with automated listing management, search, and payment processing.
 
-</div>
-
-<div style="flex: 1;">
+</td>
+<td width="50%" valign="top">
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](.github-stats/stats-card.svg)
 
-</div>
-
-</div>
-
----
+</td>
+</tr>
+</table>
 
 ## 📜 Certifications
 
@@ -47,8 +40,6 @@ Co-founded property listing platform disrupting the Lithuanian market. Full-stac
   <img src="assets/Cloud Practitioner.png" alt="AWS Cloud Practitioner" height="120"/>
   <img src="assets/CompTIA Security.png" alt="CompTIA Security+" height="130"/>
 </p>
-
----
 
 ## 🎓 Education
 
