@@ -11,7 +11,7 @@ I build production AI systems that think for themselves. Currently crafting auto
 
 ## 🚀 Recent Highlights
 
-<img src=".github-stats/stats-card.svg" align="right" width="500" />
+<img src=".github-stats/stats-card.svg" align="right" width="400" />
 
 **🤖 AI Security Testing Platform @ Capital One**
 Built enterprise platform with 14+ autonomous agents using LangChain/LangGraph. Achieves 95% detection coverage across OWASP Top 10 with <5% false positives, completing full security assessments in under 4 hours.
