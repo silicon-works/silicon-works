@@ -1,16 +1,56 @@
-## Hi there 👋
+**Software Engineer | Aspiring AI/ML Specialist | Autonomous Systems Builder**
 
-<!--
-**silicon-works/silicon-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production AI systems that think for themselves. Currently crafting autonomous agents and multi-agent platforms that solve complex problems without human intervention.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👷 What I'm Working On
+
+<div align="left">
+<a href="#"><img src=".github-stats/repo-sostines-turtas.svg" alt="Sostines Turtas" width="400"/></a>
+
+</div>
+
+---
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+
+## 🚀 Recent Highlights
+
+**🤖 AI Security Testing Platform @ Capital One**
+Built enterprise platform with 14+ autonomous agents using LangChain/LangGraph. Achieves 95% detection coverage across OWASP Top 10 with <5% false positives, completing full security assessments in under 4 hours.
+
+**🏠 Sostines Turtas**
+Co-founded property listing platform disrupting the Lithuanian market. Full-stack solution with automated listing management, search, and payment processing.
+
+</div>
+
+<div style="flex: 1;">
+
+## 📊 GitHub Stats
+
+![GitHub Stats](.github-stats/stats-card.svg)
+
+</div>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<p align="left">
+  <img src="assets/Machine Learning Specialty.png" alt="AWS Machine Learning Specialty" height="120"/>
+  <img src="assets/Developer Associate.png" alt="AWS Developer Associate" height="120"/>
+  <img src="assets/Cloud Practitioner.png" alt="AWS Cloud Practitioner" height="120"/>
+  <img src="assets/CompTIA Security.png" alt="CompTIA Security+" height="130"/>
+</p>
+
+---
+
+## 🎓 Education
+
+**BSc Artificial Intelligence and Computer Science** – First Class Honours in Computer Science
+University of Sheffield | Focused on ML, Neural Networks, and Safety-Critical Systems
