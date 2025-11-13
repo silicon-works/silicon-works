@@ -9,11 +9,9 @@ I build production AI systems that think for themselves. Currently crafting auto
 
 </div>
 
-<table style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="50%" valign="top" style="border: none;">
-
 ## 🚀 Recent Highlights
+
+<img src=".github-stats/stats-card.svg" align="right" width="500" />
 
 **🤖 AI Security Testing Platform @ Capital One**
 Built enterprise platform with 14+ autonomous agents using LangChain/LangGraph. Achieves 95% detection coverage across OWASP Top 10 with <5% false positives, completing full security assessments in under 4 hours.
@@ -21,16 +19,7 @@ Built enterprise platform with 14+ autonomous agents using LangChain/LangGraph. 
 **🏠 Sostines Turtas**
 Co-founded property listing platform disrupting the Lithuanian market. Full-stack solution with automated listing management, search, and payment processing.
 
-</td>
-<td width="50%" valign="top" style="border: none;">
-
-## 📊 GitHub Stats
-
-![GitHub Stats](.github-stats/stats-card.svg)
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ## 📜 Certifications
 
